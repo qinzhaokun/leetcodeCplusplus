@@ -47,3 +47,4 @@ class Tries{
         child = new Tries[2];
     }
 }
+
